@@ -1,0 +1,21 @@
+{
+  "name": "mock4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil9214/Mock4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahil9214/Mock4/issues"
+  },
+  "homepage": "https://github.com/Sahil9214/Mock4#readme"
+}
